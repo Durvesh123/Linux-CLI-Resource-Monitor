@@ -10,6 +10,14 @@ A terminal-based Python tool to monitor real-time CPU, memory, disk, and network
 - 🧰 Lightweight and dependency-efficient
 - 🛠️ Built for CLI-based Linux environments (no GUI needed)
 ---
+## 📸 Screenshots
+
+### 🖥️ System Monitor (monitor.py)
+![System Monitor Screenshot](monitor_output.png)
+
+### 🧠 Process Monitor (process_monitor.py)
+![Process Monitor Screenshot](process_output.png)
+---
 ## 📦 Requirements
 
 - Python 3.6+
