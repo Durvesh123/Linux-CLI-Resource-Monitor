@@ -34,7 +34,7 @@ pip install -r requirements.txt
 Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/Linux-CLI-Resource-Monitor.git
+git clone https://github.com/Durvesh123/Linux-CLI-Resource-Monitor.git
 cd Linux-CLI-Resource-Monitor
 ```
 Make Scripts Executable
